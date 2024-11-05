@@ -1,0 +1,42 @@
+#fundo{
+    min-height: 100%;
+    background-image: url(desktop-wallpaper-black-background-papel-de-parede-com-fundo-preto-black-paisley.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+h1{
+    font-style: oblique;
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+p{
+    font-style: normal;
+    color: aliceblue;
+    font-size: large;
+}
+li{
+    color: aliceblue;
+    font-size: large;
+}
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+nav ul li a {
+    color: #ffe600ee;
+    text-decoration: none;
+}
+ label{
+    color: aliceblue;
+ }
+ html {
+    min-height: 100%;
+    background-size: cover;
+ }

@@ -1,0 +1,12 @@
+h1{
+    font-style: italic;
+}
+#fundo{
+    background-color: rgb(255, 0, 234);
+}
+.paragrafo{
+    color: rgb(13, 4, 88);
+}
+.paragrafo2{
+    color: darkslateblue;
+}
